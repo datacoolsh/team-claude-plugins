@@ -9,7 +9,7 @@
     }
   },
   "enabledPlugins": {
-    "pluginA@team-claude-plugins": true,
-    "pluginB@team-claude-plugins": true
+    "plugin-a@team-claude-plugins": true,
+    "plugin-b@team-claude-plugins": true
   }
 }

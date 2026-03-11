@@ -9,34 +9,34 @@
   },
   "plugins": [
     {
-      "name": "pluginA",
+      "name": "plugin-a",
       "source": {
         "source": "github",
-        "repo": "datacoolsh/pluginA",
+        "repo": "datacoolsh/plugin-a",
         "ref": "master"
       },
-      "description": "pluginA - datacool team Claude Code plugin",
+      "description": "plugin-a - datacool team Claude Code plugin",
       "version": "1.0.0",
       "author": {
         "name": "datacoolsh"
       },
-      "repository": "https://github.com/datacoolsh/pluginA",
+      "repository": "https://github.com/datacoolsh/plugin-a",
       "license": "MIT",
       "category": "team-tools"
     },
     {
-      "name": "pluginB",
+      "name": "plugin-b",
       "source": {
         "source": "github",
-        "repo": "datacoolsh/pluginB",
+        "repo": "datacoolsh/plugin-b",
         "ref": "master"
       },
-      "description": "pluginB - datacool team Claude Code plugin",
+      "description": "plugin-b - datacool team Claude Code plugin",
       "version": "1.0.0",
       "author": {
         "name": "datacoolsh"
       },
-      "repository": "https://github.com/datacoolsh/pluginB",
+      "repository": "https://github.com/datacoolsh/plugin-b",
       "license": "MIT",
       "category": "team-tools"
     }
