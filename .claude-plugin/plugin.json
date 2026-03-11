@@ -1,0 +1,8 @@
+{
+  "name": "team-claude-plugins",
+  "description": "datacool team 根插件，包含团队通用工具技能",
+  "version": "1.0.0",
+  "author": {
+    "name": "datacoolsh"
+  }
+}
