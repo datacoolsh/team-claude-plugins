@@ -1,0 +1,44 @@
+{
+  "name": "team-claude-plugins",
+  "owner": {
+    "name": "datacoolsh"
+  },
+  "metadata": {
+    "description": "datacool team Claude Code 插件市场",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "pluginA",
+      "source": {
+        "source": "github",
+        "repo": "datacoolsh/pluginA",
+        "ref": "master"
+      },
+      "description": "pluginA - datacool team Claude Code plugin",
+      "version": "1.0.0",
+      "author": {
+        "name": "datacoolsh"
+      },
+      "repository": "https://github.com/datacoolsh/pluginA",
+      "license": "MIT",
+      "category": "team-tools"
+    },
+    {
+      "name": "pluginB",
+      "source": {
+        "source": "github",
+        "repo": "datacoolsh/pluginB",
+        "ref": "master"
+      },
+      "description": "pluginB - datacool team Claude Code plugin",
+      "version": "1.0.0",
+      "author": {
+        "name": "datacoolsh"
+      },
+      "repository": "https://github.com/datacoolsh/pluginB",
+      "license": "MIT",
+      "category": "team-tools"
+    }
+  ]
+}
