@@ -5,7 +5,8 @@
   },
   "metadata": {
     "description": "datacool team Claude Code 插件市场",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "autoUpdate": true
   },
   "plugins": [
     {

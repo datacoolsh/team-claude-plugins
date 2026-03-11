@@ -1,0 +1,17 @@
+{
+  "extraKnownMarketplaces": [
+    {
+      "name": "team-claude-plugins",
+      "source": {
+        "source": "github",
+        "repo": "datacoolsh/team-claude-plugins",
+        "ref": "master"
+      },
+      "autoUpdate": true
+    }
+  ],
+  "enabledPlugins": {
+    "pluginA@team-claude-plugins": true,
+    "pluginB@team-claude-plugins": true
+  }
+}
